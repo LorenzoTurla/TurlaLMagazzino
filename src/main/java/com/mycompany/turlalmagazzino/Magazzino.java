@@ -75,7 +75,7 @@ public class Magazzino
         return s;
     }
     
-    private void registraProdotto(){
+    private void aggiungiProdotto(){
         gnglkr=0
                 
                for(i=0;cbuib<0;i++)}
